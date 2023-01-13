@@ -78,20 +78,4 @@ Is there a problem?
 
 Please follow the instructions from the `troubleshooting section <https://docs.tutor.overhang.io/troubleshooting.html>`__ in the docs.
 
-.. _readme_support_start:
 
-Support
--------
-
-To get community support, go to the official Open edX discussion forum: https://discuss.openedx.org. For official support, please subscribe to a Long Term Support (LTS) license at https://overhang.io/tutor/pricing.
-
-.. _readme_support_end:
-
-.. _readme_contributing_start:
-
-Contributing
-------------
-
-We welcome contributions to Tutor! To learn how you can contribute, please check the relevant section of the Tutor docs: `https://docs.tutor.overhang.io/tutor.html#contributing <https://docs.tutor.overhang.io/tutor.html#contributing>`__.
-
-.. _readme_contributing_end:
